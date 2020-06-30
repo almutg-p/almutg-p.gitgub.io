@@ -5,3 +5,7 @@ Das ist meine Webseite. Sie funktioniert zwar nicht, weil sie umgeleitet wird, a
 * Intelligent
 * Nice
 * lieb
+
+As Almut Geiger said:
+> I’ve always been more interested
+> in the future than in the past.
